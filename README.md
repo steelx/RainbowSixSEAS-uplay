@@ -47,3 +47,7 @@ These ids posted on our Rainbow 6 SEAS Discord [Private gist only visible to mem
  - wrathbringer27 | @Wrathbringer27#0967  | Singapore
  - Master..Yoda | @Master..Yoda#3869  | India
  - DeepFlare | @DeepFlare [SEAS, PC]#9681 | Singapore
+ - GearltWitcher2 | GeraltWitcher2#8113 | India
+ - H4RI_- | FlamingAlpha#5700 | India
+ - I.Am.Negan | Cara Delevingne#9001 | Singapore
+ - BlN4RY | BlN4RY#1278 | India
