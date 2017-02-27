@@ -9,11 +9,11 @@ These ids posted on our Rainbow 6 SEAS Discord [Private gist only visible to mem
  - zayne78908 | @!Zayne:anchor::crossed_swords:#1656   | India
  - laggyNITIN | @laggyNITIN:tm:#1162 | India
  - RR-Berserk | @Berserk#1184  | Singapore
- - RR-SorryMyHoney | @Sora#0310 | Cambodia
+ - RRE-SorryMyHoney | @Sora#0310 | Cambodia
  - RR-Sparky | @LikeASpark#3973  | SG
  - RR-Trial | @TrialCrafter#1311   | Thailand
  - RR-PotatoAim| @TheSuperPotato#3329 | Malaysia
- - RR--Xpert | @Xpert#6561  | India
+ - RRE--Xpert | @Xpert#6561  | India
  - BeTa_RAMPAGE | @BeTa_RAMPAGE#3954 | India
  - DvsN_Pratit | @DvsN_Pratit#1115  | India
  - wenchobaba | @wenchobaba#1384 | India
@@ -51,3 +51,4 @@ These ids posted on our Rainbow 6 SEAS Discord [Private gist only visible to mem
  - H4RI_- | FlamingAlpha#5700 | India
  - I.Am.Negan | Cara Delevingne#9001 | Singapore
  - BlN4RY | BlN4RY#1278 | India
+ - Fury.27 | Fury.27#5994  | Singapore
