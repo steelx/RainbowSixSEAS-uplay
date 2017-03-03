@@ -52,3 +52,8 @@ These ids posted on our Rainbow 6 SEAS Discord [Private gist only visible to mem
  - I.Am.Negan | Cara Delevingne#9001 | Singapore
  - BlN4RY | BlN4RY#1278 | India
  - Fury.27 | Fury.27#5994  | Singapore
+ - Noobalistic | dennyirfan#9071 | Indonesia
+ - Shadow_Chaserr | Shadow_Chaserr#0726 | India
+ - weeaboo_warrior | joel.siberia#3082 | Malaysia
+ - richarddoge8079 | Richard "Wanker" Lee#4274 | Malaysia
+ - T.H.K_Youmu | guestlogin#9162 | Korea
