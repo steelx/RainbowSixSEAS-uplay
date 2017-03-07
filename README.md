@@ -57,3 +57,11 @@ These ids posted on our Rainbow 6 SEAS Discord [Private gist only visible to mem
  - weeaboo_warrior | joel.siberia#3082 | Malaysia
  - richarddoge8079 | Richard "Wanker" Lee#4274 | Malaysia
  - T.H.K_Youmu | guestlogin#9162 | Korea
+ - Vejovis21 | AlexNoya#1163 | Indonesia
+ - M0nster_S1ayer | Monster_Slayer#8235 | India
+ - Vineeth_Slayer | Vineeth#8187 | India
+ - BK_73 | bharath#9922 | India
+ - rektTime |  rekted#8536 | Viet Nam
+ - InF.Neon | Neon#4333 | Australia
+ 
+ 
