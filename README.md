@@ -63,5 +63,7 @@ These ids posted on our Rainbow 6 SEAS Discord [Private gist only visible to mem
  - BK_73 | bharath#9922 | India
  - rektTime |  rekted#8536 | Viet Nam
  - InF.Neon | Neon#4333 | Australia
+ - AFKOPTK | AFKOPTK#9229 | India
+ - RnB_quanghuy68 | quanghuy68#6485 | Vietnam
  
  
