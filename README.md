@@ -7,7 +7,6 @@ These ids posted on our Rainbow 6 SEAS Discord [Private gist only visible to mem
  - STEEL_in | @steelx#4050 | India
  - RR-Zantus | @Zantus#0861  | Malaysia
  - zayne78908 | @!Zayne:anchor::crossed_swords:#1656   | India
- - laggyNITIN | @laggyNITIN:tm:#1162 | India
  - RR-Berserk | @Berserk#1184  | Singapore
  - RRE-SorryMyHoney | @Sora#0310 | Cambodia
  - RR-Sparky | @LikeASpark#3973  | SG
@@ -67,3 +66,7 @@ These ids posted on our Rainbow 6 SEAS Discord [Private gist only visible to mem
  - RnB_quanghuy68 | quanghuy68#6485 | Vietnam
  - ReD.- | ReD.-#3203 | India
  - Tanoy  | Syco#5353  | India
+ - aux1on. | aux1on-#4735 | Singapore
+ - Ankur069 | Ankur069#8482 | India
+ - CRIMEMASTERG0GO | @laggyNITIN:tm:#1162 | HOBO
+ 
