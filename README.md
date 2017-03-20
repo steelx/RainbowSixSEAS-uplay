@@ -8,11 +8,11 @@ These ids posted on our Rainbow 6 SEAS Discord [Private gist only visible to mem
  - RR-Zantus | @Zantus#0861  | Malaysia
  - zayne78908 | @!Zayne:anchor::crossed_swords:#1656   | India
  - RR-Berserk | @Berserk#1184  | Singapore
- - RRE-SorryMyHoney | @Sora#0310 | Cambodia
+ - RR-SorryMyHoney | @Sora#0310 | Cambodia
  - RR-Sparky | @LikeASpark#3973  | SG
  - RR-Trial | @TrialCrafter#1311   | Thailand
  - RR-PotatoAim| @TheSuperPotato#3329 | Malaysia
- - RRE--Xpert | @Xpert#6561  | India
+ - RR--Xpert | @Xpert#6561  | India
  - BeTa_RAMPAGE | @BeTa_RAMPAGE#3954 | India
  - DvsN_Pratit | @DvsN_Pratit#1115  | India
  - wenchobaba | @wenchobaba#1384 | India
