@@ -69,4 +69,7 @@ These ids posted on our Rainbow 6 SEAS Discord [Private gist only visible to mem
  - aux1on. | aux1on-#4735 | Singapore
  - Ankur069 | Ankur069#8482 | India
  - CRIMEMASTERG0GO | @laggyNITIN:tm:#1162 | HOBO
+ - ES.Rayan | raya#6465 | India
+ - MedSeries | xSeries#8225 | China
+ - Viet.Kong. | Black Sheept#9668 | VietNam
  
