@@ -72,4 +72,6 @@ These ids posted on our Rainbow 6 SEAS Discord [Private gist only visible to mem
  - ES.Rayan | raya#6465 | India
  - MedSeries | xSeries#8225 | China
  - Viet.Kong. | Black Sheept#9668 | VietNam
+ - KerakTelor86 | KerakTelor#7152 | Indonesia
+ 
  
