@@ -74,3 +74,4 @@ These ids posted on our Rainbow 6 SEAS Discord [Private gist only visible to mem
  - Viet.Kong. | Black Sheept#9668 | VietNam
  - KerakTelor86 | KerakTelor#7152 | Indonesia
  - Pylot._. | Sammyboy97#2358 | India
+ - FuryDOTO | fury#3184 | Singapore
