@@ -75,3 +75,5 @@ These ids posted on our Rainbow 6 SEAS Discord [Private gist only visible to mem
  - KerakTelor86 | KerakTelor#7152 | Indonesia
  - Pylot._. | Sammyboy97#2358 | India
  - FuryDOTO | fury#3184 | Singapore
+ - Upaytopraytplay | Pinespepperberi#9630 | Singapore
+ - Saitsu.| Saitsu#8463 | Indonesia
