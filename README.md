@@ -77,3 +77,5 @@ These ids posted on our Rainbow 6 SEAS Discord [Private gist only visible to mem
  - FuryDOTO | fury#3184 | Singapore
  - Upaytopraytplay | Pinespepperberi#9630 | Singapore
  - Saitsu.| Saitsu#8463 | Indonesia
+ - Halfblood. |  Halfblood#9063 | India
+ 
