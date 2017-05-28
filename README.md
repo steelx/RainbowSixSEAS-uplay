@@ -78,4 +78,7 @@ These ids posted on our Rainbow 6 SEAS Discord [Private gist only visible to mem
  - Upaytopraytplay | Pinespepperberi#9630 | Singapore
  - Saitsu.| Saitsu#8463 | Indonesia
  - Halfblood. |  Halfblood#9063 | India
+ - LordRender | LordRender#1721 | India
+ - ExT.SovietRushB | St. Pringleberg#4178  | Singapore
+ 
  
