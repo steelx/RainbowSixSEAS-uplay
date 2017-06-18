@@ -4,7 +4,7 @@ These ids posted on our Rainbow 6 SEAS Discord [Private gist only visible to mem
 
 
 
- - STEEL_in | @steelx#4050 | India
+ - STEEL--3 | @steelx#4050 | India
  - RR-Zantus | @Zantus#0861  | Malaysia
  - zayne78908 | @!Zayne:anchor::crossed_swords:#1656   | India
  - RR-Berserk | @Berserk#1184  | Singapore
