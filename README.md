@@ -4,7 +4,7 @@ These ids posted on our Rainbow 6 SEAS Discord [Private gist only visible to mem
 
 
 
- - STEEL--3 | @steelx#4050 | India
+ - mf_STEEL | @steelx#4050 | India
  - RR-Zantus | @Zantus#0861  | Malaysia
  - zayne78908 | @!Zayne:anchor::crossed_swords:#1656   | India
  - RR-Berserk | @Berserk#1184  | Singapore
@@ -81,5 +81,9 @@ These ids posted on our Rainbow 6 SEAS Discord [Private gist only visible to mem
  - Halfblood. |  Halfblood#9063 | India
  - LordRender | LordRender#1721 | India
  - ExT.SovietRushB | St. Pringleberg#4178  | Singapore
+ - SadCloud. | SadCloud#9770 | Philippines
+ - aseanea | aseanea#9065 | Malaysia
+ - silenthorizon | silentobserver#4709 | Singapore
+ 
  
  
