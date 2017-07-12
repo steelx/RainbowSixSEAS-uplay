@@ -84,6 +84,6 @@ These ids posted on our Rainbow 6 SEAS Discord [Private gist only visible to mem
  - SadCloud. | SadCloud#9770 | Philippines
  - aseanea | aseanea#9065 | Malaysia
  - silenthorizon | silentobserver#4709 | Singapore
- 
+ - Lykana. | Lykan#1974  | Malaysia
  
  
